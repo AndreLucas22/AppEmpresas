@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Application Teste</string>
+    <string name="title">BEM-VINDO AO EMPRESAS</string>
+    <string name="message">Lorem ipsum dolor sit amet, contetur adipiscing elit. Nunc accumsan.</string>
+    <string name="password">Senha</string>
+    <string name="eMail">E-mail</string>
+    <string name="logIn">ENTRAR</string>
+    <string name="errortext">Credenciais informadas são inválidas, tente novamente.</string>
+</resources>
